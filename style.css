@@ -1,0 +1,29 @@
+#title {
+  background-color: #0f0e22;
+  color: white;
+ 
+  font-weight: 100;
+  font-family: Courier New,Roboto Mono,monospace;
+}
+#image {
+width: 100%;
+height: auto;
+max-width: 900px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+body {
+  text-align: center;
+  background-color: #f1f0f8;
+}
+#tribute-info {
+  text-align: left;
+}
+
+h3 {
+  color: #0f0e22;
+  font-family: sans-serif;
+  font-weight: bolder;
+  background-color: #e6e5f3;
+}
